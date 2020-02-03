@@ -12,3 +12,5 @@ git tracks changs of files.
 推送到远程github
 
 第二次推送到远程实验
+
+第三次推送到远程实验 消除 .git/refs/remote/origin/master无法创建的报错，自己在目录下创建了。
