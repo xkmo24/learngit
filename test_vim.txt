@@ -7,4 +7,4 @@ git is free software.
 
 git has a mutable index called stage
 
-git tracks changs.
+git tracks changs of files.
