@@ -8,3 +8,5 @@ git is free software.
 git has a mutable index called stage
 
 git tracks changs of files.
+
+推送到远程github
